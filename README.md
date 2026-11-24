@@ -2,7 +2,7 @@
 
 **QA Engineer | Cypress | Playwright | JavaScript | API Testing**
 
-QA Engineer focused on test automation with Cypress, API testing, bug reporting, and process integration in agile environments. I work on technical efficiency and on the reliability and stability of software deliveries.
+QA professional focused on test automation with Cypress, API testing, bug reporting, and process integration in agile environments. I work on technical efficiency and on the reliability and stability of software deliveries.
 
 I build hands-on projects end to end: UI automation, REST API testing, test cases, and bug reports.
 
