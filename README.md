@@ -27,7 +27,8 @@ I build hands-on projects end to end: UI automation, REST API testing, test case
 
 ## Education
 
-**The Complete 2026 Software Testing Bootcamp** — Udemy, Sep 2026
+**The Complete 2026 Software Testing Bootcamp** — Udemy, Sep 2026  
+[Certificate](https://www.udemy.com/certificate/UC-53904707-bf0a-42d7-9eba-fa82760f9506/)
 
 ## Contact
   
