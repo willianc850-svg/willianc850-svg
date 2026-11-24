@@ -1,4 +1,4 @@
-# Willian Cristian Vieira Freitas
+# Willian Cristian
 
 **QA Engineer | Cypress | Playwright | JavaScript | API Testing**
 
